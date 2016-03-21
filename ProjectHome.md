@@ -1,0 +1,3 @@
+Coded with Vimeo Pro users in mind, to help them overcome some of the common initial problems calling the Vimeo adavnced api from flash as3.
+Includes a helper class to guide users through generating an access token and an exmaple of retrieving albums. Also a basic custom flash player for playing the vimeo direct url links. See the comments in the examples classes for docs.
+Includes a copy of Iotashan's oAuth classes and the osflash signals classes. I don't believe there is any problem with including these, but if there is then tell me and I will remove them.
